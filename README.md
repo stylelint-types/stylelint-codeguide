@@ -2,8 +2,7 @@
 
 TypeScript definitions for [stylelint-define-config](https://github.com/stylelint-types/stylelint-define-config).
 
-> [!danger]
-> 
+> [!CAUTION]
 > `stylelint-codeguide` has been merged into [`stylelint-stylistic`](https://github.com/stylelint-stylistic/stylelint-stylistic), so this package is deprecated.
 
 ## Install
